@@ -1,3 +1,3 @@
 var imported = document.createElement('script');
-imported.src = './input.js';
+imported.src = './src/input.js';
 document.head.appendChild(imported);
