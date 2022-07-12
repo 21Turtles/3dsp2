@@ -1,14 +1,19 @@
 while(true)
 {
   var inp = input.checkHeld();
-  if(inp == input.A) console.log("A pressed"); // preforms action if a key is pressed current action=print A pressed!"
-  if(inp == input.A) console.log("A pressed"); // preforms action if a key is pressed current action=print A pressed!"
-  if(inp == input.A) console.log("A pressed"); // preforms action if a key is pressed current action=print A pressed!"
-  if(inp == input.A) console.log("A pressed"); // preforms action if a key is pressed current action=print A pressed!"
-  if(inp == input.A) console.log("A pressed"); // preforms action if a key is pressed current action=print A pressed!"
-  if(inp == input.A) console.log("A pressed"); // preforms action if a key is pressed current action=print A pressed!"
-  if(inp == input.A) console.log("A pressed"); // preforms action if a key is pressed current action=print A pressed!"
-  if(inp == input.A) console.log("A pressed"); // preforms action if a key is pressed current action=print A pressed!"
+  if(inp == input.A) console.log("A pressed");
+  if(inp == input.A) console.log("A pressed"); 
+  if(inp == input.A) console.log("A pressed"); 
+  if(inp == input.A) console.log("A pressed"); 
+  if(inp == input.A) console.log("A pressed"); 
+  if(inp == input.A) console.log("A pressed");
+  if(inp == input.A) console.log("A pressed"); 
+  if(inp == input.A) console.log("A pressed"); 
+  if(inp == input.A) console.log("A pressed");
+  if(inp == input.A) console.log("A pressed");
+  if(inp == input.A) console.log("A pressed");
+  if(inp == input.A) console.log("A pressed");
+  if(inp == input.A) console.log("A pressed")
   
   
   
