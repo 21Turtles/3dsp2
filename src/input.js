@@ -12,17 +12,17 @@ while(true)
   if(inp == input.R)                   ;
   if(inp == input.ZL)                   ;
   if(inp == input.ZR)                   ;
-  // Now for the Dpad(s) Right Analong
+  // Now for the Dpad(s) Left Analong
   if(inp == input.DRight)                   ;
   if(inp == input.DLeft)                   ;
   if(inp == input.DUp)                   ;
   if(inp == input.DDown)                   ;
-  // Circle Pad  Right Analong
+  // Circle Pad  Left Analong
   if(inp == input.CPRight)                   ;
   if(inp == input.CPLeft)                   ;
   if(inp == input.CPUp)                   ;
   if(inp == input.CPDown)                   ;
-  // C-Stick for left Analog
+  // C-Stick for Right Analog
    if(inp == input.CSRight)                   ;
   if(inp == input.CSLeft)                   ;
   if(inp == input.CSUp)                   ;
