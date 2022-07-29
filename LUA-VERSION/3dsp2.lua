@@ -1,7 +1,7 @@
 -- 3dsp2.lua
 
-Screen_Y = SCREEN_HEIGHT
-Screen_X = SCREEN_WIDTH
+local Screen_Y = SCREEN_HEIGHT
+local Screen_X = SCREEN_WIDTH
 
 
 -- Display an image on the screen
